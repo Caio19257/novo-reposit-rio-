@@ -1,0 +1,14 @@
+<DOCTYPE! html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>minha biografia</title>
+</head>
+<body>
+    <h1><strong>nome: Caio P. | Bairro: Areias | Cidade: Recife | Idade: 18</strong> 
+    </h1>
+    <hr>
+    <p>Escola de origem: Particular Sesi Ibura.<p>
+    <p>Curso atual: Curso técnico de informatica </p>
+    <p>Curso desejado: Jogos digitais</p>
+</body>
